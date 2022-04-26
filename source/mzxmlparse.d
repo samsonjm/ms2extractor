@@ -204,7 +204,6 @@ bool extract_ms2(
 }
 
 /*
-
 void main(string[] args)
 {
 	string input_file;
